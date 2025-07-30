@@ -1,4 +1,4 @@
-# Panduan cara instalasi web toko pakian
+# Panduan cara instalasi web toko pakaian
 # pertama tama dari sisi back end untuk api dan database
 # 1.) pertama tama nyalakan server mysql dan buat database dengan nama toko pakaian 
 # 2.) Setelah import data sql yang saya siapkan di folder query
