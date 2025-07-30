@@ -10,3 +10,4 @@
 # 1.) pertama tama masuk ke directori my_app dengan cara cd my_app di terminal
 # 2.) apa bila sudah masuk ke directori ketikan npm install untul mendowload depedency yang di butuhkan
 # 3.) apa bila sudah di donwload sekarang nyalakan server dengan mengetikan npm start untuk menjalankan server dari sisi front_end
+# 4.) Setelah itu anda dapat masuk ke web admin dengan url http://localhost:3000/Product dengan username kurnia dan password 12345678
